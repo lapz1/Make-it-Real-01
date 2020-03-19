@@ -1,1 +1,4 @@
-hola mundo
+Conceptos y comandos esenciales
+El primer paso para trabajar con git es inicializar el repositorio. Un repositorio no es más que una carpeta oculta llamada .git que va a estar en la raíz del proyecto y que va a contener todo el historial de cambios.
+
+Para inicializar un repositorio ingresa a la carpeta del proyecto y ejecuta el siguiente comando:
